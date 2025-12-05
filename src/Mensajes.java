@@ -59,7 +59,7 @@ public class Mensajes{
             case 19:
                 return metodo19();
             case 20:
-                return metodo20();
+                return metodo07();
             default:
                 return "Fuera de rango";
                 // code block
