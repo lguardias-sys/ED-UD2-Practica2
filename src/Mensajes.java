@@ -72,7 +72,7 @@ public class Mensajes{
         return "dos";
     }
     public String metodo03 () {
-        return "tres";
+        return "Hector Criado butanero";
     }
     public String metodo04 () {
         return "cuatro";
