@@ -99,7 +99,7 @@ public class Mensajes{
         return "once";
     }
     public String metodo12 () {
-        return "doce";
+        return "Hola soy diego";
     }
     public String metodo13 () {
         return "trece";
