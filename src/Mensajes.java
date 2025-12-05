@@ -29,7 +29,8 @@ public class Mensajes{
             case 4:
                 return metodo04();
             case 5:
-                return metodo05();
+
+                return metodo04();
             case 6:
                 return metodo06();
             case 7:
