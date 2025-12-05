@@ -66,7 +66,7 @@ public class Mensajes{
         }
     }
     public String metodo01 () {
-        return "uno";
+        return "Dejo el grado";
     }
     public String metodo02 () {
         return "dos";
