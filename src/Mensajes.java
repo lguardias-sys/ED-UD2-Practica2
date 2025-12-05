@@ -2,7 +2,7 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Mensajes{
 
-    void main(String[] args) {
+    public void main(String[] args) {
 
         int num = 20;
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
@@ -92,9 +92,7 @@ public class Mensajes{
     public String metodo09 () {
         return "nueve";
     }
-    public String metodo10 () {
-        return "diez";
-    }
+    public String metodo10 () {return "Mi bobomboclat";}
     public String metodo11 () {
         return "once";
     }
