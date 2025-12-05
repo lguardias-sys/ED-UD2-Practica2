@@ -75,7 +75,7 @@ public class Mensajes{
         return "tres";
     }
     public String metodo04 () {
-        return "cuatro";
+        return "Hola mundo, soy Héctor !!!";
     }
     public String metodo05 () {
         return "cinco";
