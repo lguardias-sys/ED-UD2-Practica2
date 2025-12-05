@@ -92,7 +92,7 @@ public class Mensajes{
     public String metodo09 () {
         return "nueve";
     }
-    public String metodo10 () {return "Mi  bomboclat";}
+    public String metodo10 () {return "Mi  bomboclat ";}
     public String metodo11 () {
         return "once";
     }
