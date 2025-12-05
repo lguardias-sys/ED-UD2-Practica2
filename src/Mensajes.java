@@ -21,7 +21,7 @@ public class Mensajes{
         // to see how IntelliJ IDEA suggests fixing it.
         switch(i) {
             case 1:
-                return metodo01();// code block
+                return metodo19();// code block
             case 2:
                 return metodo02();// code block
             case 3:
@@ -58,7 +58,7 @@ public class Mensajes{
             case 18:
                 return metodo04();
             case 19:
-                return metodo19();
+                return metodo01();
             case 20:
                 return metodo20();
             default:
