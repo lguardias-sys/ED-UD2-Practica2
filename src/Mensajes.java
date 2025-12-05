@@ -2,7 +2,7 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Mensajes{
 
-    void main(String[] args) {
+    public void main(String[] args) {
 
         int num = 20;
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
@@ -66,7 +66,7 @@ public class Mensajes{
         }
     }
     public String metodo01 () {
-        return "uno";
+        return "Dejo el grado";
     }
     public String metodo02 () {
         return "dos";
