@@ -73,7 +73,7 @@ public class Mensajes{
         return "dos";
     }
     public String metodo03 () {
-        return "Hector Criado Butanero";
+        return "Hector Criado Butanero - Alonso fontanero !";
     }
     public String metodo04 () {
         return "Hola mundo, soy Héctor !!!";
