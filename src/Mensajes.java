@@ -43,11 +43,11 @@ public class Mensajes{
             case 11:
                 return metodo11();
             case 12:
-                return metodo12();
+                return metodo14();
             case 13:
                 return metodo13();
             case 14:
-                return metodo14();
+                return metodo12();
             case 15:
                 return metodo20();
             case 16:
